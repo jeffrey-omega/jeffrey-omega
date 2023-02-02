@@ -1,4 +1,4 @@
-[![Jeffrey's GitHub Banner](./assets/my-github-header-image.png)](https://hellstack.dev/)
+[![Jeffrey's GitHub Banner](./assets/img/my-github-header-image.png)](https://hellstack.dev/)
 
 
 ### Hi there 👋
