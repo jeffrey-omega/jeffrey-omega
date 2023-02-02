@@ -10,7 +10,7 @@
 
 <details> 
   <summary>
-    <h2>
+    <h2 align="center">
         <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px alt="" /> Skills
     </h2>
   </summary>
@@ -53,38 +53,38 @@
 <br/>
 
 <details> 
-  <summary><h2>📊 GitHub Stats and Activity</h2></summary>
+  <summary><h2 align="center">📊 GitHub Stats and Activity</h2></summary>
 
-<h3>🔥 Streak Stats</h3>
+<h3 align="center">🔥 Streak Stats</h3>
 
-<p align="left">
+<p align="center">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jeffrey Mostroso's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
 </p>
 
-<h3>💻 GitHub Profile Stats</h3>
+<h3 align="center">💻 GitHub Profile Stats</h3>
 
-<p align="left">
+<p align="center">
     <img alt="Jeffrey Mostroso's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jeffrey-omega&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </p>
 
-<p align="left">
+<p align="center">
     <img alt="Jeffrey Mostroso's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jeffrey-omega&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 </p>
 
 <br/>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b align="center">Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<p align="left">
+<p align="center">
     <img alt="Jeffrey Mostroso's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=jeffrey-omega&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
 </details>
 
 <details open> 
-  <summary><h2>🏆 GitHub Stat Trophies</h2></summary>
+  <summary><h2 align="center">🏆 GitHub Stat Trophies</h2></summary>
 
-  <p align="left">  
+  <p align="center">  
     <img src="https://github-profile-trophy.vercel.app/?username=jeffrey-omega&theme=onedark&column=-1&no-frame=true&no-bg=true" alt="jeffrey-omega" />
   </p>  
 </details>
