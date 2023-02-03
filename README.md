@@ -3,7 +3,11 @@
 <h3 align="center">Hi there 👋, I'm Jeffrey</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full Stack%20Web%20and%20app%20developer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full Stack%20Web%20and%20app%20developer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22#gh-dark-mode-only" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full Stack%20Web%20and%20app%20developer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00000&vCenter=true&pause=1000&size=22#gh-light-mode-only" />
 </p>
 
 <!-- Want to know more about me? [Check out my portfolio.](https://hellstack.dev/) -->
