@@ -8,7 +8,7 @@
 
 <!-- Want to know more about me? [Check out my portfolio.](https://hellstack.dev/) -->
 
-<details opens> 
+<details open> 
   <summary>
     <h2>
         <img height="40" width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" /> Skills
@@ -115,7 +115,7 @@
 
 <br/>
 
-<details> 
+<details open> 
   <summary><h2 >📊 GitHub Stats and Activity</h2></summary>
 
 <h3>🔥 Streak Stats</h3>
